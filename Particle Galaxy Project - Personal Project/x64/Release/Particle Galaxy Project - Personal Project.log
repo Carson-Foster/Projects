@@ -1,0 +1,17 @@
+﻿  Main.cpp
+C:\Users\Carson\Desktop\C++ Learning\Particle Galaxy Project - Personal Project\Main.cpp(11,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Carson\Desktop\C++ Learning\Particle Galaxy Project - Personal Project\Main.cpp(31,21): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carson\Desktop\C++ Learning\Particle Galaxy Project - Personal Project\Main.cpp(32,23): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carson\Desktop\C++ Learning\Particle Galaxy Project - Personal Project\Main.cpp(33,22): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+C:\Users\Carson\Desktop\C++ Learning\Particle Galaxy Project - Personal Project\Main.cpp(39,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Carson\Desktop\C++ Learning\Particle Galaxy Project - Personal Project\Main.cpp(40,10): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Resources.cpp
+C:\Users\Carson\Desktop\C++ Learning\Particle Galaxy Project - Personal Project\Resources.cpp(208,14): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\Carson\Desktop\C++ Learning\Particle Galaxy Project - Personal Project\Resources.cpp(209,16): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+C:\Users\Carson\Desktop\C++ Learning\Particle Galaxy Project - Personal Project\Resources.cpp(210,15): warning C4244: 'initializing': conversion from 'double' to 'Uint8', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Carson\Desktop\C++ Learning\Particle Galaxy Project - Personal Project\Resources.cpp(99): warning C4715: 'Screen::init': not all control paths return a value
+  All 28 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Particle Galaxy Project - Personal Project.vcxproj -> C:\Users\Carson\Desktop\C++ Learning\Particle Galaxy Project - Personal Project\x64\Release\Particle Galaxy Project - Personal Project.exe
